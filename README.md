@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ilya Osovets
+# 👋 Hi, I'm Ilya O.
 
 **Solutions Engineer | Programmer | Cloud & Blockchain Expert**
 
@@ -10,7 +10,7 @@ I bring big ideas to life by crafting innovative pre-sales technology solutions 
 
 ## 🚀 **About Me**
 
-- 💼 **Current Role:** Solutions Engineer at **Glowly.ai**
+- 💼 **Current Role:** Working Independently at Futurist.Technology **Glowly.ai**
 - 🌍 Based in the **U.S.** with global project experience
 - 📈 Passionate about **AI, Blockchain, Cloud Architecture, and Full-Stack Development**
 - 🔐 Former holder of **Secret Clearance** (Defense & Consultancy projects)
@@ -72,8 +72,6 @@ I bring big ideas to life by crafting innovative pre-sales technology solutions 
 ---
 
 ## 📫 **Contact Me**
-
-- **Email:** [i.osovets@gmail.com](mailto:i.osovets@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/iosovets](https://bit.ly/ilyaolinkedin2)  
 - **GitHub:** [github.com/ilya0](https://github.com/ilya0)  
 
