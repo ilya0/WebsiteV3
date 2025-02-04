@@ -28,7 +28,7 @@ I bring big ideas to life by crafting innovative pre-sales technology solutions 
 
 ## 💼 **Professional Experience**
 
-### **Solutions Engineer | Glowly.ai** *(Jan 2023 – Present)*
+### **Solutions Engineer | Glowly.ai** *(Jan 2023 – Jan 2025)*
 - Reduced development time by **40%** through strategic planning and execution  
 - Led UI, Dev, and Sales teams for AI model optimization, adding **50+ beta users**  
 - Partnered with key stakeholders, driving **critical product enhancements**  
